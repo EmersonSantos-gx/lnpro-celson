@@ -7,7 +7,7 @@ window.LNPRO = window.LNPRO || {};
 window.LNPRO.CONFIG = {
   name: 'Celson Rosendo',
   role: 'Seu próximo caminho. Mais protegido.',
-  bio: 'Especialista em Proteção Veicular & Gestão de Frota | Proteja seu veículo com tecnologia e cobertura 100% FIPE.',
+  bio: 'Especialista em Proteção Veicular | Proteja seu veículo com tecnologia e cobertura 100% FIPE.',
   company: 'LN PRO',
   legalName: 'LN PRO Proteção Veicular',
   whatsapp: '5582993092550',
