@@ -67,7 +67,7 @@ window.LNPRO.renderHeader = function renderHeader() {
           </div>
           <div class="pill">
             <i class="fa-solid fa-headset" aria-hidden="true"></i>
-            Assistência 24h<br>Nacional
+            Assistência 24h<br>0800 142 1622
           </div>
           <div class="pill">
             <i class="fa-solid fa-shield-heart" aria-hidden="true"></i>

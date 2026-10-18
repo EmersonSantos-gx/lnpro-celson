@@ -21,7 +21,7 @@ window.LNPRO.downloadVCard = function downloadVCard(onComplete) {
     'TITLE:Consultor Autorizado de Proteção Veicular',
     `TEL;TYPE=CELL,VOICE:+${CONFIG.whatsapp}`,
     `URL:https://www.instagram.com/${CONFIG.instagram}/`,
-    'NOTE:Proteção Veicular LN PRO - Maceió AL',
+    `NOTE:${escapeVCard(CONFIG.bio)}`,
     'END:VCARD',
     ''
   ].join('\r\n');

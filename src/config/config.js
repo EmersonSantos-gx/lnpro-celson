@@ -21,10 +21,10 @@ window.LNPRO.CONFIG = {
   // Foto reserva caso a conexão bloqueie o Imgur
   fallbackPhotoUrl:
     'https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=300&q=80',
-  locationLabel: 'Maceió — AL • Atendimento em todo o Brasil',
+  locationLabel: 'Maceió — AL',
   officeAddress: 'Maceió, AL, Brasil',
   // Preencha com o 0800 oficial caso queira discagem direta no modal de Assistência 24h
-  assistancePhone: '',
+  assistancePhone: '0800 142 1622',
   // Preencha caso queira exibir o CNPJ no rodapé
   cnpj: '',
   // URL pública após publicar no GitHub Pages (ex.: 'https://seu-usuario.github.io/lnpro-celson/')

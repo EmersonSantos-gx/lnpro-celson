@@ -14,7 +14,7 @@ window.LNPRO.renderFloatingWhatsApp = function renderFloatingWhatsApp() {
       rel="noopener noreferrer"
       aria-label="Solicitar cotação pelo WhatsApp"
     >
-      <span class="fab-label">Cotação Online Agora</span>
+      <span class="fab-label">Cotação Online</span>
       <i class="fa-brands fa-whatsapp" aria-hidden="true"></i>
       <span class="fab-badge" aria-hidden="true">1</span>
     </a>

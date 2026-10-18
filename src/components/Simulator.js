@@ -21,7 +21,7 @@ window.LNPRO.renderSimulator = function renderSimulator() {
           <i class="fa-solid fa-motorcycle" aria-hidden="true"></i>Moto
         </button>
         <button type="button" class="vehicle" data-vehicle="Caminhão/Utilitário" aria-pressed="false">
-          <i class="fa-solid fa-truck" aria-hidden="true"></i>Caminhão /<br>Utilitário
+          <i class="fa-solid fa-truck-pickup" aria-hidden="true"></i>Pick-Up<br>
         </button>
         <button type="button" class="vehicle" data-vehicle="App/Motorista" aria-pressed="false">
           <i class="fa-solid fa-id-card" aria-hidden="true"></i>App /<br>Motorista
@@ -29,13 +29,13 @@ window.LNPRO.renderSimulator = function renderSimulator() {
       </div>
 
       <label class="field-label" for="model">
-        Modelo e ano <span style="color:#6c7f99">(opcional)</span>
+        Modelo e Placa do Veículo <span style="color:#6c7f99">(Facilita a sua consulta)</span>
       </label>
       <input
         id="model"
         name="model"
-        placeholder="Ex.: Onix 2023, Corolla 2022, CG 160..."
-        maxlength="80"
+        placeholder="Ex.: Onix 2010 XXX-1234, CG FAN 2007 XXX-1234..."
+        maxlength=80"
         autocomplete="off"
       >
       <button type="submit" class="sim-link" style="width:100%">
